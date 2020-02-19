@@ -24,7 +24,7 @@
 #include <mlir/Dialect/AffineOps/AffineOps.h>
 #include <mlir/Dialect/LLVMIR/LLVMDialect.h>
 #include <mlir/Dialect/LoopOps/LoopOps.h>
-#include <mlir/Dialect/StandardOps/Ops.h>
+#include <mlir/Dialect/StandardOps/IR/Ops.h>
 #include <mlir/Dialect/VectorOps/VectorOps.h>
 #include <mlir/IR/Dialect.h>
 #include <mlir/IR/MLIRContext.h>
